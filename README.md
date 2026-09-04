@@ -1,5 +1,5 @@
-# Aether Demo
+# Aether
 
-Premium AI SaaS marketing template demo (static HTML/CSS/JS).
+Premium AI SaaS Webflow template demo — dark editorial marketplace redesign.
 
-**Live:** https://sahibul-nf.github.io/aether-demo/
+**Live demo:** https://sahibul-nf.github.io/aether-demo/
